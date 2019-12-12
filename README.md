@@ -1,2 +1,0 @@
-# firstCprogram
-addiction to game
